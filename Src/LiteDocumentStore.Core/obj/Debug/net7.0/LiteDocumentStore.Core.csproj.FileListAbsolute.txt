@@ -1,0 +1,12 @@
+/Users/maddin/Documents/Development/Maddin/LiteDocumentStore/LiteDocumentStore.Core/bin/Debug/net7.0/LiteDocumentStore.Core.deps.json
+/Users/maddin/Documents/Development/Maddin/LiteDocumentStore/LiteDocumentStore.Core/bin/Debug/net7.0/LiteDocumentStore.Core.dll
+/Users/maddin/Documents/Development/Maddin/LiteDocumentStore/LiteDocumentStore.Core/bin/Debug/net7.0/LiteDocumentStore.Core.pdb
+/Users/maddin/Documents/Development/Maddin/LiteDocumentStore/LiteDocumentStore.Core/obj/Debug/net7.0/LiteDocumentStore.Core.csproj.AssemblyReference.cache
+/Users/maddin/Documents/Development/Maddin/LiteDocumentStore/LiteDocumentStore.Core/obj/Debug/net7.0/LiteDocumentStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maddin/Documents/Development/Maddin/LiteDocumentStore/LiteDocumentStore.Core/obj/Debug/net7.0/LiteDocumentStore.Core.AssemblyInfoInputs.cache
+/Users/maddin/Documents/Development/Maddin/LiteDocumentStore/LiteDocumentStore.Core/obj/Debug/net7.0/LiteDocumentStore.Core.AssemblyInfo.cs
+/Users/maddin/Documents/Development/Maddin/LiteDocumentStore/LiteDocumentStore.Core/obj/Debug/net7.0/LiteDocumentStore.Core.csproj.CoreCompileInputs.cache
+/Users/maddin/Documents/Development/Maddin/LiteDocumentStore/LiteDocumentStore.Core/obj/Debug/net7.0/LiteDocumentStore.Core.dll
+/Users/maddin/Documents/Development/Maddin/LiteDocumentStore/LiteDocumentStore.Core/obj/Debug/net7.0/refint/LiteDocumentStore.Core.dll
+/Users/maddin/Documents/Development/Maddin/LiteDocumentStore/LiteDocumentStore.Core/obj/Debug/net7.0/LiteDocumentStore.Core.pdb
+/Users/maddin/Documents/Development/Maddin/LiteDocumentStore/LiteDocumentStore.Core/obj/Debug/net7.0/ref/LiteDocumentStore.Core.dll

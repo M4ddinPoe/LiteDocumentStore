@@ -1,0 +1,70 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LiteDocumentStore.Cli/1.0.0": {
+        "dependencies": {
+          "JsonDiffPatch.Net": "2.3.0",
+          "LiteDocumentStore.Core": "1.0.0"
+        },
+        "runtime": {
+          "LiteDocumentStore.Cli.dll": {}
+        }
+      },
+      "JsonDiffPatch.Net/2.3.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/JsonDiffPatchDotNet.dll": {
+            "assemblyVersion": "2.3.0.0",
+            "fileVersion": "2.3.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/11.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.1.21818"
+          }
+        }
+      },
+      "LiteDocumentStore.Core/1.0.0": {
+        "runtime": {
+          "LiteDocumentStore.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LiteDocumentStore.Cli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JsonDiffPatch.Net/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a+I1WNXSwkelsgUfMk3LVRY3FzQDV8nCpRMcml2whQDimbnOG+mxRCt6kCzMRFwshg9ir4shm0yvYDL7E89ayg==",
+      "path": "jsondiffpatch.net/2.3.0",
+      "hashPath": "jsondiffpatch.net.2.3.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pNN4l+J6LlpIvHOeNdXlwxv39NPJ2B5klz+Rd2UQZIx30Squ5oND1Yy3wEAUoKn0GPUj6Yxt9lxlYWQqfZcvKg==",
+      "path": "newtonsoft.json/11.0.1",
+      "hashPath": "newtonsoft.json.11.0.1.nupkg.sha512"
+    },
+    "LiteDocumentStore.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{1CBCC79E-80C0-4296-B4EA-EBAD20AFE299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiteDocumentStore.Core", "Src\LiteDocumentStore.Core\LiteDocumentStore.Core.csproj", "{472B1585-D546-4679-958D-611FC4A6B28B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiteDocumentStore.Cli", "Src\LiteDocumentStore.Cli\LiteDocumentStore.Cli.csproj", "{935B6E2B-1522-4357-AF8F-2D538026FED8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{472B1585-D546-4679-958D-611FC4A6B28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472B1585-D546-4679-958D-611FC4A6B28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472B1585-D546-4679-958D-611FC4A6B28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472B1585-D546-4679-958D-611FC4A6B28B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{935B6E2B-1522-4357-AF8F-2D538026FED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935B6E2B-1522-4357-AF8F-2D538026FED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935B6E2B-1522-4357-AF8F-2D538026FED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935B6E2B-1522-4357-AF8F-2D538026FED8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{472B1585-D546-4679-958D-611FC4A6B28B} = {1CBCC79E-80C0-4296-B4EA-EBAD20AFE299}
+		{935B6E2B-1522-4357-AF8F-2D538026FED8} = {1CBCC79E-80C0-4296-B4EA-EBAD20AFE299}
+	EndGlobalSection
+EndGlobal
